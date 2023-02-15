@@ -1,1 +1,1 @@
-# Equation-based-Lattice-Structures-and-their-Homogenized-properties-dataset
+# Equation-based-Lattice-Structures-dataset
