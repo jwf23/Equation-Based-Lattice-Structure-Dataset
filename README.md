@@ -1,1 +1,1 @@
-# Equation-based-Lattice-Structures-dataset
+# Equation-Based-Lattice-Structures-Dataset
