@@ -1,7 +1,5 @@
-title: Open Data Commons Attribution License (ODC-By) v1.0
+Open Data Commons Attribution License (ODC-By) v1.0
 ---
-body:
-
 <h4>Disclaimer</h4>
 
 Open Data Commons is not a law firm and does not provide legal services of any kind.
