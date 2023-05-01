@@ -10,7 +10,7 @@ Open Data Commons has no formal relationship with you. Your receipt of this docu
 
 No warranties and disclaimer of any damages. This information is provided ‘as is‘, and this site makes no warranties on the information provided. Any damages resulting from its use are disclaimed.
 
-A [plain language summary](/licenses/by/summary/) of the ODC Attribution License (ODC-BY) is available as well as a [plain text version](/licenses/by/odc_by_1.0_public_text.txt).
+A [plain language summary](https://opendatacommons.org/licenses/by/summary/) of the ODC Attribution License (ODC-BY) is available as well as a [plain text version](https://opendatacommons.org/licenses/by/odc_by_1.0_public_text.txt).
 
 ***
 
