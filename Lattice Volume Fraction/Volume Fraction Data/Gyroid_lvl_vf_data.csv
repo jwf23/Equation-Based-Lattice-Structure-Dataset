@@ -1,0 +1,201 @@
+endo_LVL,endo_VF,endo_Connectivity,surf_LVL,surf_VF,surf_Connectivity,exo_LVL,exo_VF,exo_Connectivity
+-1.5,0,Structure Pinched,0,1.25e-05,Structure and void connected,-1.5,100,Void Pinched
+-1.48492462311558,0.10095,Structure Pinched,0.00753768844221105,0.4831,Structure and void connected,-1.48492462311558,99.89905,Void Pinched
+-1.46984924623116,0.2931875,Structure Pinched,0.0150753768844221,0.96625,Structure and void connected,-1.46984924623116,99.7068125,Void Pinched
+-1.45477386934673,0.55475,Structure Pinched,0.0226130653266332,1.4476,Structure and void connected,-1.45477386934673,99.44525,Void Pinched
+-1.43969849246231,0.884025,Structure Pinched,0.0301507537688442,1.93235,Structure and void connected,-1.43969849246231,99.115975,Void Pinched
+-1.42462311557789,1.2908125,Structure Pinched,0.0376884422110553,2.416775,Structure and void connected,-1.42462311557789,98.7091875,Void Pinched
+-1.40954773869347,1.831025,Structure and void connected,0.0452261306532663,2.904425,Structure and void connected,-1.40954773869347,98.168975,Structure and void connected
+-1.39447236180905,2.4399,Structure and void connected,0.0527638190954774,3.38445,Structure and void connected,-1.39447236180905,97.5601,Structure and void connected
+-1.37939698492462,3.0416875,Structure and void connected,0.0603015075376884,3.8712,Structure and void connected,-1.37939698492462,96.9583125,Structure and void connected
+-1.3643216080402,3.6381375,Structure and void connected,0.0678391959798995,4.35255,Structure and void connected,-1.3643216080402,96.3618625,Structure and void connected
+-1.34924623115578,4.2302125,Structure and void connected,0.0753768844221105,4.8376,Structure and void connected,-1.34924623115578,95.7697875,Structure and void connected
+-1.33417085427136,4.8153375,Structure and void connected,0.0829145728643216,5.322475,Structure and void connected,-1.33417085427136,95.1846625,Structure and void connected
+-1.31909547738693,5.396,Structure and void connected,0.0904522613065327,5.80435,Structure and void connected,-1.31909547738693,94.604,Structure and void connected
+-1.30402010050251,5.972025,Structure and void connected,0.0979899497487437,6.293825,Structure and void connected,-1.30402010050251,94.027975,Structure and void connected
+-1.28894472361809,6.5465,Structure and void connected,0.105527638190955,6.775025,Structure and void connected,-1.28894472361809,93.4535,Structure and void connected
+-1.27386934673367,7.11475,Structure and void connected,0.113065326633166,7.262075,Structure and void connected,-1.27386934673367,92.88525,Structure and void connected
+-1.25879396984925,7.68105,Structure and void connected,0.120603015075377,7.743675,Structure and void connected,-1.25879396984925,92.31895,Structure and void connected
+-1.24371859296482,8.242675,Structure and void connected,0.128140703517588,8.2332,Structure and void connected,-1.24371859296482,91.757325,Structure and void connected
+-1.2286432160804,8.8028625,Structure and void connected,0.135678391959799,8.714025,Structure and void connected,-1.2286432160804,91.1971375,Structure and void connected
+-1.21356783919598,9.3591125,Structure and void connected,0.14321608040201,9.201625,Structure and void connected,-1.21356783919598,90.6408875,Structure and void connected
+-1.19849246231156,9.9157,Structure and void connected,0.150753768844221,9.68275,Structure and void connected,-1.19849246231156,90.0843,Structure and void connected
+-1.18341708542714,10.4655,Structure and void connected,0.158291457286432,10.16905,Structure and void connected,-1.18341708542714,89.5345,Structure and void connected
+-1.16834170854271,11.0140625,Structure and void connected,0.165829145728643,10.6556,Structure and void connected,-1.16834170854271,88.9859375,Structure and void connected
+-1.15326633165829,11.56075,Structure and void connected,0.173366834170854,11.138075,Structure and void connected,-1.15326633165829,88.43925,Structure and void connected
+-1.13819095477387,12.1065375,Structure and void connected,0.180904522613065,11.6198,Structure and void connected,-1.13819095477387,87.8934625,Structure and void connected
+-1.12311557788945,12.648275,Structure and void connected,0.188442211055276,12.107075,Structure and void connected,-1.12311557788945,87.351725,Structure and void connected
+-1.10804020100502,13.1903125,Structure and void connected,0.195979899497487,12.58995,Structure and void connected,-1.10804020100502,86.8096875,Structure and void connected
+-1.0929648241206,13.7291625,Structure and void connected,0.203517587939698,13.07235,Structure and void connected,-1.0929648241206,86.2708375,Structure and void connected
+-1.07788944723618,14.267525,Structure and void connected,0.21105527638191,13.561575,Structure and void connected,-1.07788944723618,85.732475,Structure and void connected
+-1.06281407035176,14.801575,Structure and void connected,0.218592964824121,14.044825,Structure and void connected,-1.06281407035176,85.198425,Structure and void connected
+-1.04773869346734,15.3370125,Structure and void connected,0.226130653266332,14.52985,Structure and void connected,-1.04773869346734,84.6629875,Structure and void connected
+-1.03266331658291,15.87075,Structure and void connected,0.233668341708543,15.014725,Structure and void connected,-1.03266331658291,84.12925,Structure and void connected
+-1.01758793969849,16.4039375,Structure and void connected,0.241206030150754,15.5051,Structure and void connected,-1.01758793969849,83.5960625,Structure and void connected
+-1.00251256281407,16.9384,Structure and void connected,0.248743718592965,15.987125,Structure and void connected,-1.00251256281407,83.0616,Structure and void connected
+-0.987437185929648,17.4716625,Structure and void connected,0.256281407035176,16.474475,Structure and void connected,-0.987437185929648,82.5283375,Structure and void connected
+-0.972361809045226,18.0012875,Structure and void connected,0.263819095477387,16.95855,Structure and void connected,-0.972361809045226,81.9987125,Structure and void connected
+-0.957286432160804,18.528625,Structure and void connected,0.271356783919598,17.44485,Structure and void connected,-0.957286432160804,81.471375,Structure and void connected
+-0.942211055276382,19.05175,Structure and void connected,0.278894472361809,17.932575,Structure and void connected,-0.942211055276382,80.94825,Structure and void connected
+-0.92713567839196,19.572,Structure and void connected,0.28643216080402,18.419725,Structure and void connected,-0.92713567839196,80.428,Structure and void connected
+-0.912060301507538,20.0939375,Structure and void connected,0.293969849246231,18.9061,Structure and void connected,-0.912060301507538,79.9060625,Structure and void connected
+-0.896984924623116,20.6122375,Structure and void connected,0.301507537688442,19.392175,Structure and void connected,-0.896984924623116,79.3877625,Structure and void connected
+-0.881909547738693,21.1293,Structure and void connected,0.309045226130653,19.880825,Structure and void connected,-0.881909547738693,78.8707,Structure and void connected
+-0.866834170854271,21.6447,Structure and void connected,0.316582914572864,20.369075,Structure and void connected,-0.866834170854271,78.3553,Structure and void connected
+-0.851758793969849,22.15835,Structure and void connected,0.324120603015075,20.855825,Structure and void connected,-0.851758793969849,77.84165,Structure and void connected
+-0.836683417085427,22.67275,Structure and void connected,0.331658291457286,21.344175,Structure and void connected,-0.836683417085427,77.32725,Structure and void connected
+-0.821608040201005,23.1821625,Structure and void connected,0.339195979899498,21.830025,Structure and void connected,-0.821608040201005,76.8178375,Structure and void connected
+-0.806532663316583,23.6928875,Structure and void connected,0.346733668341709,22.3176,Structure and void connected,-0.806532663316583,76.3071125,Structure and void connected
+-0.791457286432161,24.2001125,Structure and void connected,0.35427135678392,22.8055,Structure and void connected,-0.791457286432161,75.7998875,Structure and void connected
+-0.776381909547739,24.706975,Structure and void connected,0.361809045226131,23.29465,Structure and void connected,-0.776381909547739,75.293025,Structure and void connected
+-0.761306532663317,25.213725,Structure and void connected,0.369346733668342,23.78305,Structure and void connected,-0.761306532663317,74.786275,Structure and void connected
+-0.746231155778894,25.7202875,Structure and void connected,0.376884422110553,24.2711,Structure and void connected,-0.746231155778894,74.2797125,Structure and void connected
+-0.731155778894472,26.224175,Structure and void connected,0.384422110552764,24.75815,Structure and void connected,-0.731155778894472,73.775825,Structure and void connected
+-0.71608040201005,26.7282625,Structure and void connected,0.391959798994975,25.24835,Structure and void connected,-0.71608040201005,73.2717375,Structure and void connected
+-0.701005025125628,27.2311875,Structure and void connected,0.399497487437186,25.73805,Structure and void connected,-0.701005025125628,72.7688125,Structure and void connected
+-0.685929648241206,27.733275,Structure and void connected,0.407035175879397,26.2287,Structure and void connected,-0.685929648241206,72.266725,Structure and void connected
+-0.670854271356784,28.2347375,Structure and void connected,0.414572864321608,26.720775,Structure and void connected,-0.670854271356784,71.7652625,Structure and void connected
+-0.655778894472362,28.7335375,Structure and void connected,0.422110552763819,27.205375,Structure and void connected,-0.655778894472362,71.2664625,Structure and void connected
+-0.64070351758794,29.2332,Structure and void connected,0.42964824120603,27.699475,Structure and void connected,-0.64070351758794,70.7668,Structure and void connected
+-0.625628140703518,29.7318,Structure and void connected,0.437185929648241,28.18975,Structure and void connected,-0.625628140703518,70.2682,Structure and void connected
+-0.610552763819095,30.2288,Structure and void connected,0.444723618090452,28.6802,Structure and void connected,-0.610552763819095,69.7712,Structure and void connected
+-0.595477386934673,30.7253125,Structure and void connected,0.452261306532663,29.16665,Structure and void connected,-0.595477386934673,69.2746875,Structure and void connected
+-0.580402010050251,31.2227125,Structure and void connected,0.459798994974874,29.659625,Structure and void connected,-0.580402010050251,68.7772875,Structure and void connected
+-0.565326633165829,31.7176875,Structure and void connected,0.467336683417085,30.1515,Structure and void connected,-0.565326633165829,68.2823125,Structure and void connected
+-0.550251256281407,32.2136,Structure and void connected,0.474874371859296,30.644175,Structure and void connected,-0.550251256281407,67.7864,Structure and void connected
+-0.535175879396985,32.707175,Structure and void connected,0.482412060301508,31.136025,Structure and void connected,-0.535175879396985,67.292825,Structure and void connected
+-0.520100502512563,33.2015125,Structure and void connected,0.489949748743719,31.6291,Structure and void connected,-0.520100502512563,66.7984875,Structure and void connected
+-0.505025125628141,33.695925,Structure and void connected,0.49748743718593,32.116375,Structure and void connected,-0.505025125628141,66.304075,Structure and void connected
+-0.489949748743719,34.18545,Structure and void connected,0.505025125628141,32.60815,Structure and void connected,-0.489949748743719,65.81455,Structure and void connected
+-0.474874371859296,34.6779125,Structure and void connected,0.512562814070352,33.10265,Structure and void connected,-0.474874371859296,65.3220875,Structure and void connected
+-0.459798994974874,35.1701875,Structure and void connected,0.520100502512563,33.596975,Structure and void connected,-0.459798994974874,64.8298125,Structure and void connected
+-0.444723618090452,35.6599,Structure and void connected,0.527638190954774,34.087325,Structure and void connected,-0.444723618090452,64.3401,Structure and void connected
+-0.42964824120603,36.1502625,Structure and void connected,0.535175879396985,34.58565,Structure and void connected,-0.42964824120603,63.8497375,Structure and void connected
+-0.414572864321608,36.6396125,Structure and void connected,0.542713567839196,35.0781,Structure and void connected,-0.414572864321608,63.3603875,Structure and void connected
+-0.399497487437186,37.130975,Structure and void connected,0.550251256281407,35.5728,Structure and void connected,-0.399497487437186,62.869025,Structure and void connected
+-0.384422110552764,37.620925,Structure and void connected,0.557788944723618,36.061825,Structure and void connected,-0.384422110552764,62.379075,Structure and void connected
+-0.369346733668342,38.108475,Structure and void connected,0.565326633165829,36.564625,Structure and void connected,-0.369346733668342,61.891525,Structure and void connected
+-0.35427135678392,38.59725,Structure and void connected,0.57286432160804,37.0582,Structure and void connected,-0.35427135678392,61.40275,Structure and void connected
+-0.339195979899497,39.0849875,Structure and void connected,0.580402010050251,37.554575,Structure and void connected,-0.339195979899497,60.9150125,Structure and void connected
+-0.324120603015075,39.5720875,Structure and void connected,0.587939698492462,38.049575,Structure and void connected,-0.324120603015075,60.4279125,Structure and void connected
+-0.309045226130653,40.0595875,Structure and void connected,0.595477386934673,38.549375,Structure and void connected,-0.309045226130653,59.9404125,Structure and void connected
+-0.293969849246231,40.54695,Structure and void connected,0.603015075376884,39.042675,Structure and void connected,-0.293969849246231,59.45305,Structure and void connected
+-0.278894472361809,41.0337125,Structure and void connected,0.610552763819096,39.5424,Structure and void connected,-0.278894472361809,58.9662875,Structure and void connected
+-0.263819095477387,41.520725,Structure and void connected,0.618090452261307,40.0353,Structure and void connected,-0.263819095477387,58.479275,Structure and void connected
+-0.248743718592965,42.0064375,Structure and void connected,0.625628140703518,40.5364,Structure and void connected,-0.248743718592965,57.9935625,Structure and void connected
+-0.233668341708543,42.4926375,Structure and void connected,0.633165829145729,41.03095,Structure and void connected,-0.233668341708543,57.5073625,Structure and void connected
+-0.218592964824121,42.9775875,Structure and void connected,0.64070351758794,41.5336,Structure and void connected,-0.218592964824121,57.0224125,Structure and void connected
+-0.203517587939698,43.463825,Structure and void connected,0.648241206030151,42.032975,Structure and void connected,-0.203517587939698,56.536175,Structure and void connected
+-0.188442211055276,43.9464625,Structure and void connected,0.655778894472362,42.532925,Structure and void connected,-0.188442211055276,56.0535375,Structure and void connected
+-0.173366834170854,44.4309625,Structure and void connected,0.663316582914573,43.031925,Structure and void connected,-0.173366834170854,55.5690375,Structure and void connected
+-0.158291457286432,44.915475,Structure and void connected,0.670854271356784,43.530525,Structure and void connected,-0.158291457286432,55.084525,Structure and void connected
+-0.14321608040201,45.3991875,Structure and void connected,0.678391959798995,44.03295,Structure and void connected,-0.14321608040201,54.6008125,Structure and void connected
+-0.128140703517588,45.8834,Structure and void connected,0.685929648241206,44.53345,Structure and void connected,-0.128140703517588,54.1166,Structure and void connected
+-0.113065326633166,46.3689625,Structure and void connected,0.693467336683417,45.033325,Structure and void connected,-0.113065326633166,53.6310375,Structure and void connected
+-0.0979899497487437,46.8530875,Structure and void connected,0.701005025125628,45.537625,Structure and void connected,-0.0979899497487437,53.1469125,Structure and void connected
+-0.0829145728643216,47.3387625,Structure and void connected,0.708542713567839,46.037525,Structure and void connected,-0.0829145728643216,52.6612375,Structure and void connected
+-0.0678391959798995,47.823725,Structure and void connected,0.71608040201005,46.543475,Structure and void connected,-0.0678391959798995,52.176275,Structure and void connected
+-0.0527638190954774,48.307775,Structure and void connected,0.723618090452261,47.0474,Structure and void connected,-0.0527638190954774,51.692225,Structure and void connected
+-0.0376884422110553,48.7916125,Structure and void connected,0.731155778894472,47.55165,Structure and void connected,-0.0376884422110553,51.2083875,Structure and void connected
+-0.0226130653266332,49.2762,Structure and void connected,0.738693467336683,48.056325,Structure and void connected,-0.0226130653266332,50.7238,Structure and void connected
+-0.00753768844221105,49.75845,Structure and void connected,0.746231155778894,48.559425,Structure and void connected,-0.00753768844221105,50.24155,Structure and void connected
+0.00753768844221105,50.24155,Structure and void connected,0.753768844221106,49.06195,Structure and void connected,0.00753768844221105,49.75845,Structure and void connected
+0.0226130653266332,50.7238,Structure and void connected,0.761306532663317,49.57255,Structure and void connected,0.0226130653266332,49.2762,Structure and void connected
+0.0376884422110553,51.2083875,Structure and void connected,0.768844221105528,50.07455,Structure and void connected,0.0376884422110553,48.7916125,Structure and void connected
+0.0527638190954774,51.692225,Structure and void connected,0.776381909547739,50.58605,Structure and void connected,0.0527638190954774,48.307775,Structure and void connected
+0.0678391959798995,52.176275,Structure and void connected,0.78391959798995,51.087575,Structure and void connected,0.0678391959798995,47.823725,Structure and void connected
+0.0829145728643216,52.6612375,Structure and void connected,0.791457286432161,51.599775,Structure and void connected,0.0829145728643216,47.3387625,Structure and void connected
+0.0979899497487437,53.1469125,Structure and void connected,0.798994974874372,52.1058,Structure and void connected,0.0979899497487437,46.8530875,Structure and void connected
+0.113065326633166,53.6310375,Structure and void connected,0.806532663316583,52.614225,Structure and void connected,0.113065326633166,46.3689625,Structure and void connected
+0.128140703517588,54.1166,Structure and void connected,0.814070351758794,53.1262,Structure and void connected,0.128140703517588,45.8834,Structure and void connected
+0.14321608040201,54.6008125,Structure and void connected,0.821608040201005,53.635675,Structure and void connected,0.14321608040201,45.3991875,Structure and void connected
+0.158291457286432,55.084525,Structure and void connected,0.829145728643216,54.149525,Structure and void connected,0.158291457286432,44.915475,Structure and void connected
+0.173366834170854,55.5690375,Structure and void connected,0.836683417085427,54.6545,Structure and void connected,0.173366834170854,44.4309625,Structure and void connected
+0.188442211055276,56.0535375,Structure and void connected,0.844221105527638,55.169825,Structure and void connected,0.188442211055276,43.9464625,Structure and void connected
+0.203517587939698,56.536175,Structure and void connected,0.851758793969849,55.6833,Structure and void connected,0.203517587939698,43.463825,Structure and void connected
+0.218592964824121,57.0224125,Structure and void connected,0.85929648241206,56.199525,Structure and void connected,0.218592964824121,42.9775875,Structure and void connected
+0.233668341708543,57.5073625,Structure and void connected,0.866834170854271,56.7106,Structure and void connected,0.233668341708543,42.4926375,Structure and void connected
+0.248743718592965,57.9935625,Structure and void connected,0.874371859296482,57.225925,Structure and void connected,0.248743718592965,42.0064375,Structure and void connected
+0.263819095477387,58.479275,Structure and void connected,0.881909547738693,57.7414,Structure and void connected,0.263819095477387,41.520725,Structure and void connected
+0.278894472361809,58.9662875,Structure and void connected,0.889447236180904,58.259975,Structure and void connected,0.278894472361809,41.0337125,Structure and void connected
+0.293969849246231,59.45305,Structure and void connected,0.896984924623116,58.775525,Structure and void connected,0.293969849246231,40.54695,Structure and void connected
+0.309045226130653,59.9404125,Structure and void connected,0.904522613065327,59.2944,Structure and void connected,0.309045226130653,40.0595875,Structure and void connected
+0.324120603015075,60.4279125,Structure and void connected,0.912060301507538,59.812125,Structure and void connected,0.324120603015075,39.5720875,Structure and void connected
+0.339195979899497,60.9150125,Structure and void connected,0.919597989949749,60.331575,Structure and void connected,0.339195979899497,39.0849875,Structure and void connected
+0.35427135678392,61.40275,Structure and void connected,0.92713567839196,60.856,Structure and void connected,0.35427135678392,38.59725,Structure and void connected
+0.369346733668342,61.891525,Structure and void connected,0.934673366834171,61.37425,Structure and void connected,0.369346733668342,38.108475,Structure and void connected
+0.384422110552764,62.379075,Structure and void connected,0.942211055276382,61.8965,Structure and void connected,0.384422110552764,37.620925,Structure and void connected
+0.399497487437186,62.869025,Structure and void connected,0.949748743718593,62.42,Structure and void connected,0.399497487437186,37.130975,Structure and void connected
+0.414572864321608,63.3603875,Structure and void connected,0.957286432160804,62.94275,Structure and void connected,0.414572864321608,36.6396125,Structure and void connected
+0.42964824120603,63.8497375,Structure and void connected,0.964824120603015,63.472575,Structure and void connected,0.42964824120603,36.1502625,Structure and void connected
+0.444723618090452,64.3401,Structure and void connected,0.972361809045226,63.997425,Structure and void connected,0.444723618090452,35.6599,Structure and void connected
+0.459798994974874,64.8298125,Structure and void connected,0.979899497487437,64.52575,Structure and void connected,0.459798994974874,35.1701875,Structure and void connected
+0.474874371859296,65.3220875,Structure and void connected,0.987437185929648,65.056675,Structure and void connected,0.474874371859296,34.6779125,Structure and void connected
+0.489949748743719,65.81455,Structure and void connected,0.994974874371859,65.585725,Structure and void connected,0.489949748743719,34.18545,Structure and void connected
+0.505025125628141,66.304075,Structure and void connected,1.00251256281407,66.1232,Structure and void connected,0.505025125628141,33.695925,Structure and void connected
+0.520100502512563,66.7984875,Structure and void connected,1.01005025125628,66.65825,Structure and void connected,0.520100502512563,33.2015125,Structure and void connected
+0.535175879396985,67.292825,Structure and void connected,1.01758793969849,67.192125,Structure and void connected,0.535175879396985,32.707175,Structure and void connected
+0.550251256281407,67.7864,Structure and void connected,1.0251256281407,67.7265,Structure and void connected,0.550251256281407,32.2136,Structure and void connected
+0.565326633165829,68.2823125,Structure and void connected,1.03266331658291,68.2585,Structure and void connected,0.565326633165829,31.7176875,Structure and void connected
+0.580402010050251,68.7772875,Structure and void connected,1.04020100502513,68.791225,Structure and void connected,0.580402010050251,31.2227125,Structure and void connected
+0.595477386934673,69.2746875,Structure and void connected,1.04773869346734,69.325975,Structure and void connected,0.595477386934673,30.7253125,Structure and void connected
+0.610552763819095,69.7712,Structure and void connected,1.05527638190955,69.8585,Structure and void connected,0.610552763819095,30.2288,Structure and void connected
+0.625628140703518,70.2682,Structure and void connected,1.06281407035176,70.39685,Structure and void connected,0.625628140703518,29.7318,Structure and void connected
+0.64070351758794,70.7668,Structure and void connected,1.07035175879397,70.932075,Structure and void connected,0.64070351758794,29.2332,Structure and void connected
+0.655778894472362,71.2664625,Structure and void connected,1.07788944723618,71.46495,Structure and void connected,0.655778894472362,28.7335375,Structure and void connected
+0.670854271356784,71.7652625,Structure and void connected,1.08542713567839,72.00205,Structure and void connected,0.670854271356784,28.2347375,Structure and void connected
+0.685929648241206,72.266725,Structure and void connected,1.0929648241206,72.541675,Structure and void connected,0.685929648241206,27.733275,Structure and void connected
+0.701005025125628,72.7688125,Structure and void connected,1.10050251256281,73.081175,Structure and void connected,0.701005025125628,27.2311875,Structure and void connected
+0.71608040201005,73.2717375,Structure and void connected,1.10804020100503,73.619375,Structure and void connected,0.71608040201005,26.7282625,Structure and void connected
+0.731155778894472,73.775825,Structure and void connected,1.11557788944724,74.159175,Structure and void connected,0.731155778894472,26.224175,Structure and void connected
+0.746231155778894,74.2797125,Structure and void connected,1.12311557788945,74.70345,Structure and void connected,0.746231155778894,25.7202875,Structure and void connected
+0.761306532663317,74.786275,Structure and void connected,1.13065326633166,75.243475,Structure and void connected,0.761306532663317,25.213725,Structure and void connected
+0.776381909547739,75.293025,Structure and void connected,1.13819095477387,75.786925,Structure and void connected,0.776381909547739,24.706975,Structure and void connected
+0.791457286432161,75.7998875,Structure and void connected,1.14572864321608,76.331825,Structure and void connected,0.791457286432161,24.2001125,Structure and void connected
+0.806532663316583,76.3071125,Structure and void connected,1.15326633165829,76.8785,Structure and void connected,0.806532663316583,23.6928875,Structure and void connected
+0.821608040201005,76.8178375,Structure and void connected,1.1608040201005,77.420925,Structure and void connected,0.821608040201005,23.1821625,Structure and void connected
+0.836683417085427,77.32725,Structure and void connected,1.16834170854271,77.971875,Structure and void connected,0.836683417085427,22.67275,Structure and void connected
+0.851758793969849,77.84165,Structure and void connected,1.17587939698492,78.520525,Structure and void connected,0.851758793969849,22.15835,Structure and void connected
+0.866834170854271,78.3553,Structure and void connected,1.18341708542714,79.069,Structure and void connected,0.866834170854271,21.6447,Structure and void connected
+0.881909547738693,78.8707,Structure and void connected,1.19095477386935,79.6184,Structure and void connected,0.881909547738693,21.1293,Structure and void connected
+0.896984924623116,79.3877625,Structure and void connected,1.19849246231156,80.1686,Structure and void connected,0.896984924623116,20.6122375,Structure and void connected
+0.912060301507538,79.9060625,Structure and void connected,1.20603015075377,80.72475,Structure and void connected,0.912060301507538,20.0939375,Structure and void connected
+0.92713567839196,80.428,Structure and void connected,1.21356783919598,81.281775,Structure and void connected,0.92713567839196,19.572,Structure and void connected
+0.942211055276382,80.94825,Structure and void connected,1.22110552763819,81.8359,Structure and void connected,0.942211055276382,19.05175,Structure and void connected
+0.957286432160804,81.471375,Structure and void connected,1.2286432160804,82.394275,Structure and void connected,0.957286432160804,18.528625,Structure and void connected
+0.972361809045226,81.9987125,Structure and void connected,1.23618090452261,82.9535,Structure and void connected,0.972361809045226,18.0012875,Structure and void connected
+0.987437185929648,82.5283375,Structure and void connected,1.24371859296482,83.51465,Structure and void connected,0.987437185929648,17.4716625,Structure and void connected
+1.00251256281407,83.0616,Structure and void connected,1.25125628140704,84.0762,Structure and void connected,1.00251256281407,16.9384,Structure and void connected
+1.01758793969849,83.5960625,Structure and void connected,1.25879396984925,84.6379,Structure and void connected,1.01758793969849,16.4039375,Structure and void connected
+1.03266331658291,84.12925,Structure and void connected,1.26633165829146,85.204675,Structure and void connected,1.03266331658291,15.87075,Structure and void connected
+1.04773869346734,84.6629875,Structure and void connected,1.27386934673367,85.7705,Structure and void connected,1.04773869346734,15.3370125,Structure and void connected
+1.06281407035176,85.198425,Structure and void connected,1.28140703517588,86.339675,Structure and void connected,1.06281407035176,14.801575,Structure and void connected
+1.07788944723618,85.732475,Structure and void connected,1.28894472361809,86.907,Structure and void connected,1.07788944723618,14.267525,Structure and void connected
+1.0929648241206,86.2708375,Structure and void connected,1.2964824120603,87.48085,Structure and void connected,1.0929648241206,13.7291625,Structure and void connected
+1.10804020100502,86.8096875,Structure and void connected,1.30402010050251,88.05595,Structure and void connected,1.10804020100502,13.1903125,Structure and void connected
+1.12311557788945,87.351725,Structure and void connected,1.31155778894472,88.63025,Structure and void connected,1.12311557788945,12.648275,Structure and void connected
+1.13819095477387,87.8934625,Structure and void connected,1.31909547738693,89.208,Structure and void connected,1.13819095477387,12.1065375,Structure and void connected
+1.15326633165829,88.43925,Structure and void connected,1.32663316582915,89.7879,Structure and void connected,1.15326633165829,11.56075,Structure and void connected
+1.16834170854271,88.9859375,Structure and void connected,1.33417085427136,90.369325,Structure and void connected,1.16834170854271,11.0140625,Structure and void connected
+1.18341708542714,89.5345,Structure and void connected,1.34170854271357,90.95495,Structure and void connected,1.18341708542714,10.4655,Structure and void connected
+1.19849246231156,90.0843,Structure and void connected,1.34924623115578,91.539575,Structure and void connected,1.19849246231156,9.9157,Structure and void connected
+1.21356783919598,90.6408875,Structure and void connected,1.35678391959799,92.130975,Structure and void connected,1.21356783919598,9.35911249999999,Structure and void connected
+1.2286432160804,91.1971375,Structure and void connected,1.3643216080402,92.723725,Structure and void connected,1.2286432160804,8.8028625,Structure and void connected
+1.24371859296482,91.757325,Structure and void connected,1.37185929648241,93.317,Structure and void connected,1.24371859296482,8.24267500000001,Structure and void connected
+1.25879396984925,92.31895,Structure and void connected,1.37939698492462,93.916625,Structure and void connected,1.25879396984925,7.68105,Structure and void connected
+1.27386934673367,92.88525,Structure and void connected,1.38693467336683,94.515525,Structure and void connected,1.27386934673367,7.11475,Structure and void connected
+1.28894472361809,93.4535,Structure and void connected,1.39447236180905,95.1202,Structure and void connected,1.28894472361809,6.54649999999999,Structure and void connected
+1.30402010050251,94.027975,Structure and void connected,1.40201005025126,95.7242,Structure and void connected,1.30402010050251,5.972025,Structure and void connected
+1.31909547738693,94.604,Structure and void connected,1.40954773869347,96.33795,Structure and void connected,1.31909547738693,5.396,Structure and void connected
+1.33417085427136,95.1846625,Structure and void connected,1.41708542713568,96.93115,Void Pinched,1.33417085427136,4.8153375,Structure and void connected
+1.34924623115578,95.7697875,Structure and void connected,1.42462311557789,97.418375,Void Pinched,1.34924623115578,4.23021249999999,Structure and void connected
+1.3643216080402,96.3618625,Structure and void connected,1.4321608040201,97.847475,Void Pinched,1.3643216080402,3.6381375,Structure and void connected
+1.37939698492462,96.9583125,Structure and void connected,1.43969849246231,98.23195,Void Pinched,1.37939698492462,3.04168749999999,Structure and void connected
+1.39447236180905,97.5601,Structure and void connected,1.44723618090452,98.579075,Void Pinched,1.39447236180905,2.43989999999999,Structure and void connected
+1.40954773869347,98.168975,Structure and void connected,1.45477386934673,98.8905,Void Pinched,1.40954773869347,1.831025,Structure and void connected
+1.42462311557789,98.7091875,Void Pinched,1.46231155778894,99.168725,Void Pinched,1.42462311557789,1.2908125,Structure Pinched
+1.43969849246231,99.115975,Void Pinched,1.46984924623116,99.413625,Void Pinched,1.43969849246231,0.884024999999994,Structure Pinched
+1.45477386934673,99.44525,Void Pinched,1.47738693467337,99.625025,Void Pinched,1.45477386934673,0.554749999999999,Structure Pinched
+1.46984924623116,99.7068125,Void Pinched,1.48492462311558,99.7981,Void Pinched,1.46984924623116,0.293187500000002,Structure Pinched
+1.48492462311558,99.89905,Void Pinched,1.49246231155779,99.928825,Void Pinched,1.48492462311558,0.100949999999997,Structure Pinched
+1.5,100,Void Pinched,1.5,100,Void Pinched,1.5,0,Structure Pinched
